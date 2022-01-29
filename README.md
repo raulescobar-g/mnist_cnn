@@ -1,4 +1,4 @@
-# mnst_cnn
+# mnist_cnn
 
 Assignment for csce421 after lecture on convolutional neural networks.
 Assignment was a contest between the class to see who could get highest accuracy on test dataset.
